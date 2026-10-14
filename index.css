@@ -1,0 +1,7 @@
+/* Mood Mixology - Global Styles */
+@layer base {
+  body {
+    background-color: #050505;
+    color: #e0e0e0;
+  }
+}

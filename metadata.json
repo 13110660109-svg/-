@@ -1,0 +1,11 @@
+{
+  "name": "Mood Mixology",
+  "description": "An aesthetic emotional visualization tool that turns your feelings into a metaphorical digital cocktail using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
